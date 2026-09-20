@@ -3,7 +3,6 @@
 ### Overview
 
 - Solution to "College Library Project" : Problem Statement 3 (Book Lending Application)
-- Submission by team Dockerators (Kalyan Ram, Vidhish T, Vikas K)
 - This repository contains the code to the frontend of our book lending application.
 - The frontend of the book lending application is written in vite-react. It uses several extenrnal javascript libraries such as:
     - Axios : Making REST API calls to our backend
