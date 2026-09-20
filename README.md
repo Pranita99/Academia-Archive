@@ -1,8 +1,6 @@
 # College Library Project
 
-A distributed microservices application built for the **Afourathon** hackathon by team **Dockerators** (Kalyan Ram, Vidhish T, Vikas K). The system manages a college library across four related repositories: two standalone data microservices, one orchestration backend, and one React frontend.
-
-> **Preparing for an interview?** See [INTERVIEW_PREP.md](./INTERVIEW_PREP.md) for elevator pitches, tech stack breakdown, design patterns, common Q&A, and talking points.
+A distributed microservices application. The system manages a college library across four related repositories: two standalone data microservices, one orchestration backend, and one React frontend.
 
 ## Repositories
 
