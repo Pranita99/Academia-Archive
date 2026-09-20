@@ -4,7 +4,6 @@
 
 - Solution to "College Library Project" : Problem Statement 3
   (Book Lending Application)
-- Submission by team Dockerators (Kalyan Ram, Vidhish T, Vikas K)
 - This repository contains the code to the backend of our book lending application. It contains the REST endpoints that are queried by the frontend.
 
 ### Functionality
