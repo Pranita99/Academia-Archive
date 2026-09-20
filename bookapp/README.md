@@ -4,7 +4,6 @@
 
 - Solution to "College Library Project" : Problem Statement 2
 (Book Details App)
-- Submission by team Dockerators (Kalyan Ram, Vidhish T, Vikas K)
 - This project behaves as a microservice whose APIs are directly queried by our submission to Problem Statement 3 (Book Lending App)
 
 ### Functionality
