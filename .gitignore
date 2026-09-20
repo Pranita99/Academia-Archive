@@ -1,0 +1,24 @@
+# Build outputs
+**/target/
+**/dist/
+**/node_modules/
+**/build/
+
+# IDE
+**/.idea/
+**/.vscode/
+**/*.iml
+**/.DS_Store
+
+# Logs
+**/*.log
+
+# Local environment (use .env.example as template)
+**/.env
+**/.env.local
+
+# Java local config (generated per-environment)
+**/src/main/resources/application.properties
+
+# Maven wrapper jar is tracked; timing files are not
+**/.mvn/timing.properties
